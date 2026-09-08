@@ -66,7 +66,7 @@ python app.py
 Set `GROQ_API_KEY` as an environment variable before running locally.
 ## Demo
 
-![DermAssist AI Demo](assets/demo.png)
+![DermAssist AI Demo](assets/demo.PNG)
 
 
 ## Future research upgrades
