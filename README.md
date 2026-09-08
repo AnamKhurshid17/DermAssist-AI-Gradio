@@ -72,13 +72,16 @@ Set `GROQ_API_KEY` as an environment variable before running locally.
 ![DermAssist AI Demo](assets/inputimage.PNG)
 
 ## Segmentation mask
-![DermAssist AI Demo](assets/segmentationmaskoverlay.webp)
+![DermAssist AI Demo](assets/segmentationmask.webp)
 
 ## Segmentation overlay
 ![DermAssist AI Demo](assets/segmentationoverlay.webp)
 
 ## Technical Results
 ![DermAssist AI Demo](assets/technicalresults.PNG)
+
+## Complete Analysis
+![DermAssist AI Demo](assets/Fullanalysisresult.PNG)
 
 ## Future research upgrades
 
