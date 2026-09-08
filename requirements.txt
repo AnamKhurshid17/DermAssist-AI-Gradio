@@ -1,0 +1,9 @@
+torch
+transformers
+huggingface_hub
+gradio
+groq
+opencv-python-headless
+matplotlib
+scipy
+Pillow
